@@ -25,7 +25,7 @@ SECRET_KEY = 'q2x_lnk(89*zc@t08-7-8#gc#eo1xb&t4=+*nrez65xq0$y562'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [matteopaoletto.pythonanywhere.com]
+ALLOWED_HOSTS = ['matteopaoletto.pythonanywhere.com']
 
 
 # Application definition
